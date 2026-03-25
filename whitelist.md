@@ -200,4 +200,4 @@ AI 에이전트가 차익거래를 포착하거나 DAO가 재무를 통합해야
 - **[수취인](payees.md)**: 정기 지출을 위한 자동 반복 결제 설정
 - **[디지털 수표](cheques.md)**: 시간 지연과 취소 기능이 있는 일회성 결제
 - **[매니저](managers.md)**: AI 또는 팀에 결제 작업을 위임하는 방법
-- **[Programmable Wallets](user-wallet.md)**: 에이전트형 월렛과 전체 기능 살펴보기
+- **[Programmable Wallets](user-wallet.md)**: 프로그래머블 월렛과 전체 기능 살펴보기
