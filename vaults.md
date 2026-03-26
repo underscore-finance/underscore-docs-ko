@@ -396,6 +396,7 @@ AI가 최적화하는 수익을 받을 준비가 되셨나요? [**앱 열기 →
 - **담보 활용**: Share를 Ripe Protocol에 예치해 수익을 내는 담보로 대출
 - **언제든 인출**: 필요할 때 지분 토큰을 상환해 기초 자산 회수
 - **Vault 위에 구축**: [기술 문서](https://underscore-1.gitbook.io/developers)를 통해 앱에 통합
+- **실시간 Vault 설정 확인**: [Params Explorer](https://params.underscore.finance/vaults)에서 현재 Vault 파라미터와 주소를 확인
 
 DeFi 전략을 완전히 직접 제어하고 싶다면, 맞춤 매니저와 결제 자동화 등을 지원하는 [Programmable Wallets](user-wallet.md)를 살펴보세요.
 

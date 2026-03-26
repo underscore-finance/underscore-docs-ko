@@ -27,4 +27,5 @@
 
 - [기술 문서](https://underscore-1.gitbook.io/developers) — 스마트 컨트랙트 가이드와 통합 문서
 - [배포된 컨트랙트](https://underscore-1.gitbook.io/developers/home/deployments) — Base 상의 컨트랙트 주소
+- [Params Explorer](https://params.underscore.finance) — 실시간 프로토콜 파라미터와 컨트랙트 주소
 - [GitHub](https://github.com/underscore-finance/underscore-protocol) — 오픈소스 저장소
