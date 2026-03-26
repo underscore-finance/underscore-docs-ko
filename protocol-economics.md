@@ -61,7 +61,7 @@ Underscore 월렛을 통해 실행된 토큰 스왑에 부과됩니다.
 
 프로토콜 수익은 전부 파트너 프로토콜인 [Ripe Protocol](https://ripe.finance)에서 RIPE 토큰을 바이백하는 데 사용됩니다.
 
-**온체인에서 검증하기**: 현재 수수료 파라미터와 실시간 컨트랙트 배포 상태는 [Params Explorer](https://params.underscore.finance/deployments)에서 확인하세요.
+**온체인에서 검증하기**: 현재 수수료 파라미터는 [Params Explorer](https://params.underscore.finance/protocol)에서 확인하세요.
 
 ---
 
