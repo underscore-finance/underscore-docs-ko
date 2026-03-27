@@ -8,7 +8,7 @@
 
 ## Earn Vaults
 
-- [Earn Vaults](vaults.md) — AI가 관리하는 ERC-4626 수익 전략
+- [Earn Vaults: 핵심 Vaults와 Amplified Vaults](vaults.md) — AI 관리형 수익과 Ripe 기반 증폭 수익
 
 ## Programmable Wallets
 

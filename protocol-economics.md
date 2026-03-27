@@ -12,7 +12,7 @@ Underscore는 가치가 발생하는 활동에 수수료를 부과해 수익을 
 
 ### 볼트 성과 수수료 (핵심 수익원)
 
-프로토콜 수익의 가장 큰 비중은 [Vaults](vaults.md)에서 나옵니다. Vault는 DeFi 프로토콜 전반에서 수익을 최적화하는 AI 관리형 전략입니다.
+프로토콜 수익의 가장 큰 비중은 [Underscore Earn Vaults](vaults.md)에서 나옵니다. 여기에는 핵심 Vaults와 Amplified Vaults가 포함됩니다.
 
 - **수수료**: 발생한 수익금의 20%
 - **적용 대상**: 원금이 아닌 이익분에만 적용
