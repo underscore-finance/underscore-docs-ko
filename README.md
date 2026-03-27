@@ -121,7 +121,7 @@ Underscore는 소비자 앱이 아닙니다. 에이전트, 앱, 프로토콜을 
 ### Underscore 위에서 만드는 애플리케이션
 
 - **AI 에이전트와 자율 시스템**: 사용자 정의 한도 안에서 [매니저](managers.md)로 작동하는 수익 최적화 에이전트, 트레이딩 봇, 자율 경제 주체. [수취인](payees.md)과 [수표](cheques.md)를 통해 데이터 피드, 컴퓨트, 추론 API 비용도 스스로 결제합니다
-- **핀테크 앱**: [Hightop](https://hightop.com)처럼 AI 에이전트를 위한 디지털 뱅킹을 사람에게는 단순하게 제공하면서, 사용자가 통제권을 유지한 채 AI 에이전트가 결제하고, 대금을 받고, 유휴 자금을 운용하고, 자금을 이동하도록 하는 온체인 제어를 Underscore가 맡는 앱
+- **핀테크 앱**: [Hightop](https://hightop.com)처럼 Underscore를 활용해 AI 에이전트를 위한 디지털 뱅킹을 사람에게는 단순하게 제공하면서, 사용자가 통제권을 유지한 채 에이전트가 결제하고, 대금을 받고, 유휴 자금을 운용하고, 자금을 이동하게 하는 앱
 - **Vault 통합 앱**: 인프라를 직접 만들지 않고도 수익 기능을 추가하고 싶은 앱. [핵심 Vaults](vaults.md)로 패시브 수익을 제공하거나, [Amplified Vaults](vaults.md)로 두 번째 수익 레이어를 제공할 수 있습니다
 - **결제 플랫폼**: [수표](cheques.md)와 [수취인](payees.md)을 활용하는 해외 송금, B2B 결제, 급여 시스템
 - **월렛 제공업체**: 기존 월렛에 고급 DeFi 기능과 [프로그래머블 위임](managers.md)을 추가하려는 제공업체
@@ -131,9 +131,10 @@ Underscore는 소비자 앱이 아닙니다. 에이전트, 앱, 프로토콜을 
 Hightop은 Underscore 위에 제품을 구축할 때 무엇이 가능한지 보여줍니다.
 
 - **AI 에이전트를 위한 디지털 뱅킹, 사람에게는 단순하게**: Hightop은 에이전트 자금을 위한 깔끔한 제품 경험을 제공하고, 그 아래의 프로그래머블 제어 레이어는 Underscore가 맡습니다
-- **AI 에이전트가 결제하고 대금을 받게 하되, 통제권은 사용자가 유지합니다**: Hightop은 AI 에이전트 실행을 [매니저](managers.md)에, 반복 결제 상대를 [수취인](payees.md)에, 일회성 지급을 [디지털 수표](cheques.md)에, 신뢰된 출금 경로를 [화이트리스트](whitelist.md)에 매핑합니다
+- **에이전트가 결제하고 대금을 받게 하되, 통제권은 사용자가 유지합니다**: Hightop은 에이전트 실행을 [매니저](managers.md)에, 반복 결제 상대를 [수취인](payees.md)에, 일회성 지급을 [디지털 수표](cheques.md)에, 신뢰된 출금 경로를 [화이트리스트](whitelist.md)에 매핑합니다
 - **월렛, 가스, 자금 이동은 뒤에서 처리됩니다**: Hightop은 [Programmable Wallets](user-wallet.md) 인프라, 가스, 자금 이동을 추상화하고, Underscore는 한도, 권한, 결제 규칙을 온체인에서 강제합니다
-- **Hightop의 Earn 경험은 핵심 Vaults와 Amplified Vaults를 모두 사용합니다**: [핵심 Vaults](vaults.md), [Amplified Vaults](vaults.md), Underscore DeFi 레고 통합이 수익, 스왑, 포트폴리오 작업을 처리하고, Ripe는 대출 레이어와 Amplified Vault 뒤의 레버리지 레일을 담당합니다
+- **Earn Autopilot과 포트폴리오 실행은 Underscore 위에서 돌아갑니다**: [핵심 Vaults](vaults.md), [Amplified Vaults](vaults.md), Underscore DeFi 레고 통합이 수익, 스왑, 정책 인지형 자산 실행을 25개 이상의 지원 자산 전반에서 처리하고, Ripe는 대출 레이어와 Amplified Vault 뒤의 레버리지 레일을 담당합니다
+- **x402 지원 플로우는 이미 제공되고, 카드는 곧 출시됩니다**: Hightop은 이미 에이전트를 위한 API 네이티브 인바운드 결제를 지원하며, 같은 제어 모델을 가상 카드까지 확장하고 있습니다
 
 대부분의 사용자는 Underscore와 직접 상호작용하지 않아도 됩니다. 대신 Hightop 같은 앱을 통해 자연스럽게 Underscore 인프라를 쓰게 됩니다.
 
