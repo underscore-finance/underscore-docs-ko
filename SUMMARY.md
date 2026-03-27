@@ -10,11 +10,11 @@
 
 - [Earn Vaults: 핵심 Vaults와 Amplified Vaults](vaults.md) — AI 관리형 수익과 Ripe 기반 증폭 수익
 
-## Programmable Wallets
+## 프로그래머블 월렛
 
-- [Programmable Wallets](user-wallet.md) — 프로그래머블 결제와 DeFi 접근을 지원하는 스마트 컨트랙트 월렛
-- [Managers](managers.md) — 에이전트에게 실행 권한을 부여하되, 수탁 권한은 주지 않습니다
-- [Payees](payees.md) — 에이전트가 필요한 서비스 비용을 결제하도록 합니다
+- [프로그래머블 월렛](user-wallet.md) — 프로그래머블 결제와 DeFi 접근을 지원하는 스마트 컨트랙트 월렛
+- [매니저](managers.md) — 에이전트에게 실행 권한을 부여하되, 수탁 권한은 주지 않습니다
+- [수취인](payees.md) — 에이전트가 필요한 서비스 비용을 결제하도록 합니다
 - [디지털 수표](cheques.md) — 무조건적인 신뢰 없이 처리하는 일회성 지출
 - [화이트리스트](whitelist.md) — 신뢰하는 주소로 즉시 무제한 전송
 
