@@ -6,7 +6,7 @@ description: 당신의 돈은 잠들지 않습니다
 
 하나의 프로토콜. 두 가지 제품.
 
-1. **[Earn Vaults](vaults.md)** — 같은 지분 기반 구조 위에서 두 가지 수익 프로필을 제공합니다. 핵심 Vaults는 패시브 AI 관리형 수익을, Amplified Vaults는 Ripe 기반 수익 증폭을 제공합니다.
+1. **[Earn Vaults](vaults.md)** — 같은 지분 기반 구조를 바탕으로 두 가지 수익 프로필을 제공합니다. 핵심 Vaults는 패시브 AI 관리형 수익을, Amplified Vaults는 Ripe 기반 수익 증폭을 제공합니다.
 
 2. **[Programmable Wallets](user-wallet.md)** — AI 에이전트와 운영자가 사용자가 정한 규칙 안에서 결제하고, 리밸런싱하고, 자금을 이동하는 프로그래머블 월렛입니다. 수탁 없음. 프라이빗 키 공유 없음. 무제한 접근 없음.
 
@@ -121,7 +121,7 @@ Underscore는 소비자 앱이 아닙니다. 에이전트, 앱, 프로토콜을 
 ### Underscore 위에서 만드는 애플리케이션
 
 - **AI 에이전트와 자율 시스템**: 사용자 정의 한도 안에서 [매니저](managers.md)로 작동하는 수익 최적화 에이전트, 트레이딩 봇, 자율 경제 주체. [수취인](payees.md)과 [수표](cheques.md)를 통해 데이터 피드, 컴퓨트, 추론 API 비용도 스스로 결제합니다
-- **핀테크 앱**: [Hightop](https://hightop.com)처럼 Underscore를 활용해 수익 최적화, 스왑, 대출, AI Private Banker 기능을 제공하는 앱
+- **핀테크 앱**: [Hightop](https://hightop.com)처럼 Underscore를 활용해 수익 최적화, 스왑, 대출, AI Private Banker 경험을 제공하는 앱
 - **Vault 통합 앱**: 인프라를 직접 만들지 않고도 수익 기능을 추가하고 싶은 앱. [핵심 Vaults](vaults.md)로 패시브 수익을 제공하거나, [Amplified Vaults](vaults.md)로 두 번째 수익 레이어를 제공할 수 있습니다
 - **결제 플랫폼**: [수표](cheques.md)와 [수취인](payees.md)을 활용하는 해외 송금, B2B 결제, 급여 시스템
 - **월렛 제공업체**: 기존 월렛에 고급 DeFi 기능과 [프로그래머블 위임](managers.md)을 추가하려는 제공업체
@@ -130,9 +130,9 @@ Underscore는 소비자 앱이 아닙니다. 에이전트, 앱, 프로토콜을 
 
 Hightop은 Underscore 위에 제품을 구축할 때 무엇이 가능한지 보여줍니다.
 
-- 이들의 **AI Private Banker**는 24시간 내내 수익을 최적화하는 Underscore 매니저입니다
+- Hightop의 **AI Private Banker**는 24시간 내내 수익을 최적화해 주는 Underscore 매니저입니다
 - **사용자 출금**은 Underscore의 화이트리스트를 통해 즉시 처리됩니다
-- **모든 DeFi 작업**은 수익 관리, 스왑, 대출을 포함해 Underscore DeFi 레고 통합으로 구동됩니다
+- **모든 DeFi 작업**은 수익 관리, 스왑, 대출을 포함해 Underscore DeFi 레고 통합으로 뒷받침됩니다
 - 사용자는 단순한 모바일 앱만 보지만, 복잡한 부분은 모두 Underscore가 처리합니다
 
 대부분의 사용자는 Underscore와 직접 상호작용하지 않아도 됩니다. 대신 Hightop 같은 앱을 통해 자연스럽게 Underscore 인프라를 쓰게 됩니다.
