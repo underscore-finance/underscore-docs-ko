@@ -4,7 +4,7 @@ description: Underscore가 수익을 창출하는 방식과 그 수익의 사용
 
 # 프로토콜 이코노믹스
 
-Underscore는 가치가 발생하는 활동에 수수료를 부과해 수익을 창출합니다. 프로토콜 수익은 전부 파트너 프로토콜인 [Ripe Protocol](https://ripe.finance)에서 RIPE 토큰을 바이백하는 데 사용됩니다.
+Underscore는 가치가 발생하는 활동에 수수료를 부과해 수익을 창출합니다. 그중 대부분은 Vault 이익에 대한 20% 성과 수수료에서 나오므로, Vault 사용자가 벌 때 프로토콜도 법니다. 프로토콜 수익의 100%는 공개 시장에서 [$RIPE](https://app.ripe.finance/ripe)를 바이백하는 데 사용됩니다.
 
 ---
 
@@ -57,9 +57,11 @@ Underscore 월렛을 통해 실행된 토큰 스왑에 부과됩니다.
 
 ---
 
-## 수익 배분: RIPE 바이백
+## 수익 배분: $RIPE 바이백
 
-프로토콜 수익은 전부 파트너 프로토콜인 [Ripe Protocol](https://ripe.finance)에서 RIPE 토큰을 바이백하는 데 사용됩니다.
+프로토콜 수익의 100%는 공개 시장에서 [$RIPE](https://app.ripe.finance/ripe)를 바이백하는 데 사용됩니다.
+
+Underscore 사용량이 늘어날수록 바이백 수요도 함께 커지고, 그 가치가 더 넓은 생태계로 되돌아갑니다.
 
 **온체인에서 검증하기**: 현재 수수료 파라미터는 [Params Explorer](https://params.underscore.finance/protocol)에서 확인하세요.
 
@@ -73,4 +75,4 @@ Underscore 월렛을 통해 실행된 토큰 스왑에 부과됩니다.
 | 스왑 수수료 | 금액의 0.25% | 중간 |
 | 외부 보상 | 청구 금액의 20% | 더 작음 |
 
-**수익의 100% → RIPE 바이백**
+**수익의 100% → 공개 시장에서 [$RIPE](https://app.ripe.finance/ripe) 바이백**
